@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gotowy Projekt
+* source:	https://sketchfab.com/3d-models/gotowy-projekt-83a4eae0dcc54109a020608223583802
+* author:	Stolmark (https://sketchfab.com/stolmark)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gotowy Projekt" (https://sketchfab.com/3d-models/gotowy-projekt-83a4eae0dcc54109a020608223583802) by Stolmark (https://sketchfab.com/stolmark) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
