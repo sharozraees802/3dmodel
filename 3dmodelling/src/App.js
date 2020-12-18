@@ -1,4 +1,5 @@
 import { GLTFModel, AmbientLight, DirectionLight } from "react-3d-viewer";
+// import Iframe from "react-iframe";
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
         enableZoom={true}
         width={1000}
         height={1000}
-        src="./resources/new.gltf"
+        src="./resources/scene.gltf"
       >
         <AmbientLight
           //  color={0xffffff}
@@ -20,7 +21,12 @@ function App() {
         />
       </GLTFModel>
 
-      <h2>3dmodel</h2>
+      {/* <iframe
+        src="https://sketchfab.com/3d-models/free-1972-datsun-240k-gt-b2303a552b444e5b8637fdf5169b41cb"
+        title="Iframe Example"
+        name="X-Frame-Options"
+      ></iframe> */}
+      <h1>3d model</h1>
     </div>
   );
 }
