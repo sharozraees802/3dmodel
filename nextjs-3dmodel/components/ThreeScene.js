@@ -93,12 +93,26 @@ class ThreeScene extends Component {
 
   render() {
     return (
+      // <div
+      //   style={{ width: "1000px", height: "1000px" }}
+      //   ref={(mount) => {
+      //     this.mount = mount;
+      //   }}
+      // />
       <div
-        style={{ width: "1000px", height: "1000px" }}
-        ref={(mount) => {
-          this.mount = mount;
+        style={{
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
         }}
-      />
+      >
+        <div
+          style={{ width: "1000px", height: "1000px" }}
+          ref={(mount) => {
+            this.mount = mount;
+          }}
+        ></div>
+      </div>
     );
   }
 }
