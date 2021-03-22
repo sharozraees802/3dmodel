@@ -1,0 +1,9 @@
+# Exported from 3D Builder
+
+newmtl Shirt00_1Material4782_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Shirt00_1Material4782_baseColor_11584800244671429718.png
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Shirt00_1Button_FRONT_baseColor_7510581167088492519.png
